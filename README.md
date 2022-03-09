@@ -16,6 +16,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Bronnenlijst
   1. School - leraar
   2. W3School
+  3. css-tricks
 
 
 
@@ -26,7 +27,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-  	<img src="images/flow.png" width="375px" alt="flow opdracht 1">
+  	<img src="https://raw.githubusercontent.com/svennijhuis/Animtion-Jordan-logo/main/images/flow.png" width="375px" alt="flow opdracht 1">
 
 
   ### Je ambitie: 
@@ -54,12 +55,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Ik heb geleerd om meerdere animties in een te voegen.
   - Om een line om een svg te vormen.
   - Overgang met background letters
-  - line om html heen.
+  - overline om html heen.
 
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="images/einde-animatie.png" width="375px" alt="uitomst opdracht 1">
+  <img src="images/einde-animatie.png" width="375px" alt="uitkomst opdracht 1">
 
   ### Dit was lastig/Is niet gelukt:
   Alles is gelukt wat ik wilde.
