@@ -207,7 +207,7 @@ svg {
   height: 300px;
   width: auto;
   position: absolute;
-  top: 58%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   animation-name: svganimtion;
@@ -215,6 +215,7 @@ svg {
   animation-duration: 5s;
   animation-fill-mode: forwards;
   transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+  fill: none;
 }
 
 @keyframes svganimtion {
@@ -224,4 +225,10 @@ svg {
   100% {
     fill: var(--color-first);
   }
+}
+
+.cls-1{
+  stroke:var(--color-first);
+  stroke-miterlimit:10;
+  stroke-width:3px;
 }
