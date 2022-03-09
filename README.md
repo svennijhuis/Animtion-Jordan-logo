@@ -27,7 +27,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-  	<img src="https://raw.githubusercontent.com/svennijhuis/Animtion-Jordan-logo/main/images/flow.png" width="375px" alt="flow opdracht 1">
+https://raw.githubusercontent.com/svennijhuis/Animtion-Jordan-logo/main/images/flow.png 
 
 
   ### Je ambitie: 
@@ -60,7 +60,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="images/einde-animatie.png" width="375px" alt="uitkomst opdracht 1">
+https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png
 
   ### Dit was lastig/Is niet gelukt:
   Alles is gelukt wat ik wilde.
