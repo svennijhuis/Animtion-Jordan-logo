@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken bij afronden opdracht (voor week 3)</summary>
 
   ### Mijn animatie board die ik ging maken:
-  <img src="images/flow.png" width="375px" alt="flow opdracht 1">
+  <img src="https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/flow.png?raw=true" width="375px" alt="flow opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
