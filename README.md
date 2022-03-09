@@ -26,7 +26,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-  <img src="readme-images/dummy-plaatje.svg" width="375px" alt="storyboard voor opdracht 1">
+  	<img src="images/flow.png" width="375px" alt="flow opdracht 1">
 
 
   ### Je ambitie: 
@@ -42,10 +42,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken bij afronden opdracht (voor week 3)</summary>
-
-  ### Mijn animatie board die ik ging maken:
-  	<img src="images/flow.png" width="375px" alt="flow opdracht 1">
-
 
   ### Dit ging goed/Heb ik geleerd: 
   - Ik heb geleerd om meerdere animties in een te voegen.
