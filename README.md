@@ -5,15 +5,15 @@
 
 ## Bronnenlijst
   1. School - leraar
-  2. W3-School
-  3. css-tricks
+  2. [W3schools](https://www.w3schools.com/)
+  3. [Css-tricks](https://css-tricks.com/)
 
 
 
 ## Opdracht 1 plan
 
 <details open>
-  <summary>uitwerken na schetsen idee (voor week 2)</summary>
+  <summary>uitwerken na schetsen idee</summary>
 
 
   ### Je storyboard:
@@ -31,8 +31,8 @@
 
 ## Opdracht 1 reflectie
 
-<details>
-  <summary>uitwerken bij afronden opdracht (voor week 3)</summary>
+<details open>
+  <summary>uitwerken bij afronden opdracht</summary>
 
   ### Dit ging goed/Heb ik geleerd: 
   - Ik heb geleerd om meerdere animties in een te voegen.
@@ -44,18 +44,20 @@
   ### wat vond ik lastig: 
   - Ik heb geleerd om meerdere animties in een te voegen.
   - Om een line om een svg te vormen.
-  - Overgang met background letters
+  - Overgang met background letters.
   - overline om html heen.
 
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  
+
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png)
 
 
-  ### Dit was lastig/Is niet gelukt:
-  Alles is gelukt wat ik wilde.
+  ### Dit was lastig:
+  1. Twee animaties in een element
+  2. responsive maken, omdat ik niet mobile firt ben begonnen.
+  3. Css netjes houden.
 
 </details>
 
