@@ -105,7 +105,7 @@
               color: var(--color-first);
             }
           }
-  - line om html heen.
+  - Line om html heen.
 
           -webkit-text-stroke: 1px var(--color-first);
 
@@ -113,19 +113,19 @@
   - Ik heb geleerd om meerdere animties in een te voegen.
   - Om een line om een svg te vormen.
   - Overgang met background letters.
-  - overline om html heen.
+  - Overline om html heen.
   - Twee animaties in een element
-  - responsive maken, omdat ik niet mobile firt ben begonnen.
+  - Responsive maken, omdat ik niet mobile firt ben begonnen.
   - Css netjes houden.
 
 
   ### Je uitkomst:
-  `light mode`
+  `Light mode`
 
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png)
 
   `Dark mode`
-  
+
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/dark-mode.png)
 
 ### Verbeteringen na feedback
