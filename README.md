@@ -106,7 +106,7 @@
             }
           }
   - line om html heen.
-  
+
           -webkit-text-stroke: 1px var(--color-first);
 
   ### wat vond ik lastig: 
@@ -121,9 +121,11 @@
 
   ### Je uitkomst:
   `light mode`
+
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png)
 
   `Dark mode`
+  
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/dark-mode.png)
 
 ### Verbeteringen na feedback
