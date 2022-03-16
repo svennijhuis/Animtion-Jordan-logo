@@ -3,19 +3,9 @@
 
 **De opdrachten:** [opdracht 1](https://svennijhuis.github.io/Animtion-Jordan-logo/) en [opdracht 2](opdracht2/index.html)
 
-
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
 ## Bronnenlijst
   1. School - leraar
-  2. W3School
+  2. W3-School
   3. css-tricks
 
 
@@ -27,8 +17,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Je storyboard:
-https://raw.githubusercontent.com/svennijhuis/Animtion-Jordan-logo/main/images/flow.png 
 
+  ![](https://raw.githubusercontent.com/svennijhuis/Animtion-Jordan-logo/main/images/flow.png )
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
@@ -60,7 +50,9 @@ https://raw.githubusercontent.com/svennijhuis/Animtion-Jordan-logo/main/images/f
 
 
   ### Je uitkomst - karakteristiek screenshot(s):
-https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png
+  
+  ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png)
+
 
   ### Dit was lastig/Is niet gelukt:
   Alles is gelukt wat ik wilde.
