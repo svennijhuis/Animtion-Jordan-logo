@@ -59,14 +59,14 @@
   `Dark mode`
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/dark-mode.png)
 
-    ### verbeteringen na feedback
+### verbeteringen na feedback
 
-    #### code ordenen 
+#### code ordenen 
           /*********************/
           /* CUSTOM PROPERTIES */
           /*********************/
 
-    #### code korter schrijven
+#### code korter schrijven
           span{
             animation-name: animtion-span;
             animation-duration: 0.5s;
