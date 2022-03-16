@@ -46,19 +46,58 @@
   - Om een line om een svg te vormen.
   - Overgang met background letters.
   - overline om html heen.
+  - Twee animaties in een element
+  - responsive maken, omdat ik niet mobile firt ben begonnen.
+  - Css netjes houden.
 
 
-
-  ### Je uitkomst - karakteristiek screenshot(s):
+  ### Je uitkomst:
+  `light mode`
 
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png)
 
+  `Dark mode`
+  ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/dark-mode.png)
 
-  ### Dit was lastig:
-  1. Twee animaties in een element
-  2. responsive maken, omdat ik niet mobile firt ben begonnen.
-  3. Css netjes houden.
+    ### verbeteringen na feedback
 
+    #### code ordenen 
+          /*********************/
+          /* CUSTOM PROPERTIES */
+          /*********************/
+
+    #### code korter schrijven
+          span{
+            animation-name: animtion-span;
+            animation-duration: 0.5s;
+            display: flex;
+            align-items: center;
+            animation-fill-mode: forwards;
+          }
+
+          span:nth-of-type(1) {
+            animation-delay: 5s;
+          }
+
+          span:nth-of-type(2) {
+            animation-delay: 5.5s;
+          }
+
+          span:nth-of-type(3) {
+            animation-delay: 6s;
+          }
+
+          span:nth-of-type(4) {
+            animation-delay: 6.5s;
+          }
+
+          span:nth-of-type(5) {
+            animation-delay: 7s;
+          }
+
+          span:nth-of-type(6) {
+            animation-delay: 7.5s;
+          }
 </details>
 
 
