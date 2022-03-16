@@ -37,38 +37,16 @@
   <summary>uitwerken bij afronden opdracht</summary>
 
   ### Dit ging goed/Heb ik geleerd: 
-  - Ik heb geleerd om meerdere animties in een te voegen.
+  - Ik heb geleerd om meerdere animaties in een te voegen.
+  `Het gaat hier om de komma`
 
           animation: top-to-bottom 3s forwards, 1s text-gradient-animation 4s forwards;
-  - Om een line om een svg te vormen.
+  - Om een line om een svg te vormen. 
+  `de stroke-dasharray is de lengte van de line en de stroke-dashoffset zorgt ervoor dat je naar 0 gaat.`
 
           @keyframes dash {
             to {
               stroke-dashoffset: 0;
-            }
-          }
-
-          svg {
-            height: 300px;
-            width: auto;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            animation-name: svganimtion;
-            animation-delay: 12s;
-            animation-duration: 5s;
-            animation-fill-mode: forwards;
-            transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
-            fill: none;
-          }
-
-          @keyframes svganimtion {
-            0% {
-              fill: none;
-            }
-            100% {
-              fill: var(--color-first);
             }
           }
 
@@ -82,6 +60,7 @@
             animation-delay: 8.5s;
           }
   - Overgang met background letters
+  `Bekijk linear-gradient`
 
           @keyframes text-gradient-animation {
             0% {
@@ -167,6 +146,12 @@
           span:nth-of-type(6) {
             animation-delay: 7.5s;
           }
+
+#### responsive maken met Media Queries
+
+        @media (max-height: 500px) and (max-width: 1400px) {
+          
+        }
 </details>
 
 
