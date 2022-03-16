@@ -51,8 +51,39 @@ body {
   margin: 0px;
 }
 
-/* jouw code */
+/*********************/
+/* h1 animatie */
+/*********************/
+
+@keyframes top-to-bottom {
+  0% {
+    position: absolute;
+    top: -100%;
+    left: 50%;
+  }
+  75% {
+    position: absolute;
+    top: -100%;
+    left: 50%;
+
+  }
+  100% {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+  }
+}
+
 h1 {
+  animation: top-to-bottom 3s forwards, 1s text-gradient-animation 4s forwards;
+  animation-timing-function: ease;
+  background-size: 200% 200%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  transform: translate(-50%, -50%);
   text-transform: uppercase;
   font-size: 90px;
   margin: 0;
@@ -70,38 +101,9 @@ h1 {
   }
 }
 
-@keyframes top-to-bottom {
-  0% {
-    position: absolute;
-    top: -100%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-  75% {
-    position: absolute;
-    top: -100%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-  100% {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-}
-
-h1 {
-  animation: top-to-bottom 3s forwards, 1s text-gradient-animation 4s forwards;
-  animation-timing-function: ease;
-  background-size: 200% 200%;
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
-/* tekst */
+/*********************/
+/* linear animatie */
+/*********************/
 
 @keyframes text-gradient-animation {
   0% {
@@ -126,6 +128,9 @@ h1 {
   }
 }
 
+/*********************/
+/* span animtie */
+/*********************/
 @keyframes animtion-span {
   0% {
     display: flex;
@@ -136,66 +141,41 @@ h1 {
   }
 }
 
-span:nth-of-type(1) {
+span{
   animation-name: animtion-span;
-  animation-delay: 5s;
   animation-duration: 0.5s;
   display: flex;
   align-items: center;
   animation-fill-mode: forwards;
+}
+
+span:nth-of-type(1) {
+  animation-delay: 5s;
 }
 
 span:nth-of-type(2) {
-  animation-name: animtion-span;
   animation-delay: 5.5s;
-  animation-duration: 0.5s;
-  display: flex;
-  align-items: center;
-  animation-fill-mode: forwards;
 }
 
 span:nth-of-type(3) {
-  animation-name: animtion-span;
   animation-delay: 6s;
-  animation-duration: 0.5s;
-  display: flex;
-  align-items: center;
-  animation-fill-mode: forwards;
 }
 
 span:nth-of-type(4) {
-  animation-name: animtion-span;
   animation-delay: 6.5s;
-  animation-duration: 0.5s;
-  display: flex;
-  align-items: center;
-  animation-fill-mode: forwards;
 }
 
 span:nth-of-type(5) {
-  animation-name: animtion-span;
   animation-delay: 7s;
-  animation-duration: 0.5s;
-  display: flex;
-  align-items: center;
-  animation-fill-mode: forwards;
 }
 
 span:nth-of-type(6) {
-  animation-name: animtion-span;
   animation-delay: 7.5s;
-  animation-duration: 0.5s;
-  display: flex;
-  align-items: center;
-  animation-fill-mode: forwards;
 }
 
-.cls-1 {
-  stroke-dasharray: 2000;
-  stroke-dashoffset: 2000;
-  animation: dash 5s linear forwards;
-  animation-delay: 8.5s;
-}
+/*********************/
+/* draw animatie */
+/*********************/
 
 @keyframes dash {
   to {
@@ -231,4 +211,8 @@ svg {
   stroke:var(--color-first);
   stroke-miterlimit:10;
   stroke-width:3px;
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 2000;
+  animation: dash 5s linear forwards;
+  animation-delay: 8.5s;
 }
