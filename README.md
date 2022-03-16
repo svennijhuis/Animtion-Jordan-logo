@@ -39,7 +39,7 @@
   ### Dit ging goed/Heb ik geleerd: 
   - Ik heb geleerd om meerdere animties in een te voegen.
 
-        animation: top-to-bottom 3s forwards, 1s text-gradient-animation 4s forwards;
+          animation: top-to-bottom 3s forwards, 1s text-gradient-animation 4s forwards;
   - Om een line om een svg te vormen.
 
           @keyframes dash {
@@ -82,10 +82,31 @@
             animation-delay: 8.5s;
           }
   - Overgang met background letters
-          
+          @keyframes text-gradient-animation {
+            0% {
+              background-position: left bottom;
+              color: transparent;
+            }
+            50% {
+              background-position: left bottom;
+            }
+            75% {
+              background-position: right top;
+              background-image: linear-gradient(
+                45deg,
+                var(--color-second),
+                var(--color-first)
+              );
+            }
+            100% {
+              background-position: right top;
+              background-image: var(--color-first);
+              color: var(--color-first);
+            }
+          }
 
   - line om html heen.
-
+          -webkit-text-stroke: 1px var(--color-first);
 
   ### wat vond ik lastig: 
   - Ik heb geleerd om meerdere animties in een te voegen.
