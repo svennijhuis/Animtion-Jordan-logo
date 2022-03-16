@@ -20,10 +20,12 @@
 
   ![](https://raw.githubusercontent.com/svennijhuis/Animtion-Jordan-logo/main/images/flow.png )
 
+  Uiteindelijk heb ik niet helemaal mijn storyboard gevolgd, omdat ik het design niet mooi vond achteraf en ik kreeg andere ideeën.
+
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
   - Overgang
-  - draw line
+  - Draw line
  
 </details>
 
@@ -53,20 +55,19 @@
 
   ### Je uitkomst:
   `light mode`
-
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/einde-animatie.png)
 
   `Dark mode`
   ![](https://github.com/svennijhuis/Animtion-Jordan-logo/blob/main/images/dark-mode.png)
 
-### verbeteringen na feedback
+### Verbeteringen na feedback
 
-#### code ordenen 
+#### Code ordenen 
           /*********************/
           /* CUSTOM PROPERTIES */
           /*********************/
 
-#### code korter schrijven
+#### Code korter schrijven
           span{
             animation-name: animtion-span;
             animation-duration: 0.5s;
@@ -105,7 +106,7 @@
 ## Opdracht 2 plan
 
 <details>
-  <summary>uitwerken na schetsen idee (voor week 4)</summary>
+  <summary>Uitwerken na schetsen idee</summary>
 
 
   ### Je ontwerp:
@@ -125,7 +126,7 @@
 ## Opdracht 2 test
 
 <details>
-  <summary>uitwerken na testen (week 6/7)</summary>
+  <summary>Uitwerken na testen (week 6/7)</summary>
 
   Neem minimaal 5 bevindingen op:
 
