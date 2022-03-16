@@ -82,6 +82,7 @@
             animation-delay: 8.5s;
           }
   - Overgang met background letters
+
           @keyframes text-gradient-animation {
             0% {
               background-position: left bottom;
@@ -104,8 +105,8 @@
               color: var(--color-first);
             }
           }
-
   - line om html heen.
+  
           -webkit-text-stroke: 1px var(--color-first);
 
   ### wat vond ik lastig: 
