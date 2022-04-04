@@ -1,7 +1,7 @@
 # Procesverslag
 **Auteur:** Sven Nijhuis
 
-**De opdrachten:** [opdracht 1](https://svennijhuis.github.io/Animtion-Jordan-logo/) en [opdracht 2](opdracht2/index.html)
+**De opdrachten:** [opdracht 1](https://svennijhuis.github.io/Animtion-Jordan-logo/) en [opdracht 2](https://github.com/svennijhuis/interaction---Api)
 
 ## Bronnenlijst
   1. School - leraar
